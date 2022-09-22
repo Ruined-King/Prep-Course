@@ -1,0 +1,12 @@
+Variables: Es un nombre que representa y almacena el valor de un dato de un programa. Estos datos pueden cambiar su valor durante la ejecución del mismo.
+
+Strings: Es una secuencia de caracteres que representa un texto. Siempre va entre comillas dobles o simples.
+
+Funciones (argumentos, return): Una función es una operación que toma un valor y me devuelve otro como salida, bajo instrucciones establecidas. Estos
+valores de entrada (las variables) se conocen como "argumentos". El return es la devolución del elemento de salida de la variable, o sea el resultado
+de la operación realizada, luego de haber ingresado los argumentos. 
+
+Declaraciones (if): Es una declaración de toma de decisiones, que verifica si algo es verdadero. Significa que, si ocurre cierta condición, entonces 
+la operación sigue la instruccion indicada, sino, seguirá otro tipo de instrucción. 
+
+Valores booleanos: Son valores que representan datos que pueden ser o verdaderos o falsos. 

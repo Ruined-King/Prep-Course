@@ -1,0 +1,9 @@
+For: Es un bucle, o sea un proceso que se repite, en este caso, tantas veces uno establezca que quiere que se repita (hasta que devuelva
+lo que estamos buscando). 
+
+&&: es el conector "y". Para que && sea verdadero, ambas condiciones deben serlo, si una es falsa, ya toda la expresión lo será, 
+dado que el && requiere que ambas expresiones cumplan la condición.
+
+||: es el conector "o". Para que || sea una expresión verdadera, requiere que al menos una condición sea verdadera. 
+
+!: Es una negación y devuelve el valor opuesto, por ejemplo "!false" es equivalente a "true".

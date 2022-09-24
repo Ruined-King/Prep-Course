@@ -1,0 +1,16 @@
+Objetos: Es parecido a las matrices, pero los objetos contienen muchos datos sobre una sola cosa. Los objetos usan un concepto conocido como pares de
+clave:valor. La clave es un identificador o nombre y el valor es el valor que quiere guardarse en esa clave.
+
+Propiedades: Es una asociación entre un nombre y un valor. El valor de una propiedad puede ser una función, en ese caso se la conoce cómo "método".
+
+Métodos: son funciones guardadas en un objeto. Se las puede establecer colocando una clave y un valor para la función. Usa la notación de punto 
+y paréntesis finales. Ej:
+objeto.funcion()
+
+Bucle for...in: Al igual que el bucle en las matrices, es un proceso que se repite hasta que ocurra cierta condición. Declara una variable para
+la clave, seguido de "in" y el nombre del objeto, lo que quiere decir que comenzará a recorrer cada clave dentro del objeto hasta que se hayan 
+iterado todas las claves.
+
+Notación de puntos vs notación de corchetes: Con la notación de puntos se puede llamar al nombre del objeto, un punto y el nombre de la clave.
+La notación de corchetes es como llamar a un elemento de una matriz, aunque con corchetes se debe usar una cadena o número, o una variable que
+apunte a una cadena o número. Se puede llamar a cada clave entre comillas dobles o simples.

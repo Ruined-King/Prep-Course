@@ -1,0 +1,4 @@
+Array: Es un conjunto de datos que puede ingresarse en una sola variable.
+Un array puede contener todo tipo de datos (funciones, booleanos, números,
+strings, otras listas, etc.)
+Los datos en un array se escriben dentro de corchetes ("[]").

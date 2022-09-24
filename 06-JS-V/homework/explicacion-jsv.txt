@@ -1,0 +1,11 @@
+Prototype: Son un mecanismo mediante el cual los objetos en Javascript heredan
+características entre sí. Todos los objetos de JS tienen su referencia en otro
+objeto y esto es llamado su "prototipo".
+Por ejemplo, el prototipo de cualquier string es 'String' o el prototipo de un
+objeto creado a partir de una clase es la misma clase. 
+Cada objeto tiene sus propias propiedades, pero a la vez tiene definido un __proto__
+
+Constructors (de clases): Un constructor o una clase es una plantilla a partir
+de la cual se pueden crear otros objetos que heredan características de esta.
+Un constructor sería el prototipo del objeto creado a partir de él.
+
